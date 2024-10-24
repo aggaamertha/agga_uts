@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "agga_uts",
+            "cwd": "agga_uts",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "agga_uts (profile mode)",
+            "cwd": "agga_uts",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "agga_uts (release mode)",
+            "cwd": "agga_uts",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
